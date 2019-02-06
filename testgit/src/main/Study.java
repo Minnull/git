@@ -9,5 +9,6 @@ public class Study {
         System.out.printf("rebase");
 
         System.out.printf("merge");
+        System.out.printf("这个是第二次");
     }
 }
