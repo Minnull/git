@@ -7,5 +7,6 @@ public class Study {
         System.out.println("第二行");
         System.out.printf("rebase");
         System.out.printf("rebase");
+        System.out.printf("rebase");
     }
 }
