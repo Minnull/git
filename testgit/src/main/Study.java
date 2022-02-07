@@ -8,5 +8,7 @@ public class Study {
         System.out.println("第二行");
         System.out.println("第二行");
         System.out.println("第二行");
+        System.out.println("第二行");
+        System.out.println("第二行");
     }
 }
