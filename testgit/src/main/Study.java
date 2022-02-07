@@ -6,5 +6,7 @@ public class Study {
         System.out.println("这是第一个git文件");
         System.out.println("第二行");
         System.out.println("第二行");
+        System.out.println("第二行");
+        System.out.println("第二行");
     }
 }
