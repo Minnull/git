@@ -12,5 +12,8 @@ public class Study {
         System.out.printf("rebase");
         System.out.printf("rebase");
         System.out.printf("rebase");
+        System.out.printf("rebase");
+        System.out.printf("rebase");
+        System.out.printf("rebase");
     }
 }
