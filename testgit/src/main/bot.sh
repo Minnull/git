@@ -15,6 +15,8 @@
 #
 # ...c'mon, nobody commits EVERY day ;)
 #
+for ((i=1; i<=100; i++))
+do
 info="Commit: $(date)"
 os="$(uname -s)"
 
@@ -49,3 +51,5 @@ git commit -m "$info"
 git push origin feature_rebase_new5 # or "master" on old setups
 
 cd -
+
+done
