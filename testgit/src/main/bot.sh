@@ -46,6 +46,6 @@ echo
 # Ship it
 git add output.txt
 git commit -m "$info"
-git push origin master # or "master" on old setups
+git push origin feature_rebase_new5 # or "master" on old setups
 
 cd -
